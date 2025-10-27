@@ -25,3 +25,7 @@ stack_obj.push(1)
 stack_obj.push(2)
 stack_obj.pop()
 print(stack_obj.peek())
+
+
+
+
