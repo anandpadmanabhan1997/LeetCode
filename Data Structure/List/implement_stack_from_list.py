@@ -8,7 +8,7 @@ class Stack:
         print(self.items)
 
     def peek(self):
-        return items.items[0]
+        return self.items[-1]
 
     def pop(self):
         return self.items.pop()
